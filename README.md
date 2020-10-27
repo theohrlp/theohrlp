@@ -1,6 +1,4 @@
-### Hi there, I'm Theo [website]
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+### Hi there, I'm Theo
 
 ## I'm a part-time developer, full-time geek!!
 - 🌱 I’m currently learning everything 🤣
@@ -24,7 +22,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 <br />
 <br />
-
 [website]: https://codeSTACKr.com
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
