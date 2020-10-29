@@ -1,6 +1,6 @@
 ### Hi there, I'm Theo
 
-## I'm a part-time developer, full-time geek!!
+## Part-time developer, full-time geek!!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
