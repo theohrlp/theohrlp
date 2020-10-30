@@ -5,9 +5,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]()
-[<img align="left" alt="TedH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]()
-[<img align="left" alt="TedH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]()
+[<img align="left" alt="theohrlp" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]()
+[<img align="left" alt="theohrlp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]()
+[<img align="left" alt="theohrlp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]()
 <br />
 
 ### Languages and Tools:
