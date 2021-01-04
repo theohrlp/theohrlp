@@ -6,7 +6,7 @@
 
 ### Connect with me:
 [<img align="left" alt="theohrlp" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://theohrlp.github.io/)
-[<img align="left" alt="theohrlp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]()
+[<img align="left" alt="theohrlp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/theodore-charalampopoulos-2a0226202/)
 <br />
 
 ### Languages and Tools:
