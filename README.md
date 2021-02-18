@@ -2,7 +2,7 @@
 
 ## Part-time developer, full-time geek!!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 [<img align="left" alt="theohrlp" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://theohrlp.github.io/)
